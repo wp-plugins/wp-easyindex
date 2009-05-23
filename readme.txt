@@ -1,4 +1,4 @@
-=== WordPress Easy Login ===
+=== WordPress Easy Index ===
 Contributors: Crispijn Verkade
 Tags: Content, Index, Table, Contents
 Donate link: http://crispijnverkade.nl/blog/donate/
